@@ -56,10 +56,10 @@ Helmholtz Institute for Metabolic, Obesity and Vascular Research (Leipzig, Germa
 
 **Poster Presentations**
 
-- “Genetically regulated gene expression and proteins revealed discordant effects”, EMBO | EMBL Symposium: Multiomics to Mechanisms: Challenges in Data Integration (Virtual, September 15-17, 2021)
-- “Sex-specific regulation and causal effects of steroid hormones on CAD”, EMBO | EMBL Symposium: The Molecular Basis and Evolution of Sexual Dimorphism (Virtual, September 14-16, 2020)
+- “Genetically regulated gene expression and proteins revealed discordant effects”, EMBO EMBL Symposium: Multiomics to Mechanisms: Challenges in Data Integration (Virtual, September 15-17, 2021)
+- “Sex-specific regulation and causal effects of steroid hormones on CAD”, EMBO EMBL Symposium: The Molecular Basis and Evolution of Sexual Dimorphism (Virtual, September 14-16, 2020)
 -  “Genetic association study of eight steroid hormones and implications for sexual dimorphism of coronary artery disease”, ESHG 2020 (Virtual, June 6-9, 2020)
--  “Genome-wide meta-analysis identifies novel loci of plaque burden in carotid artery”, EMBO | EMBL Symposium: System Genetics: From Genomes to Complex Traits (Heidelberg, Germany, September 29 – October 2, 2019)
+-  “Genome-wide meta-analysis identifies novel loci of plaque burden in carotid artery”, EMBO EMBL Symposium: System Genetics: From Genomes to Complex Traits (Heidelberg, Germany, September 29 – October 2, 2019)
 
 ## Teaching Experiences 
 
