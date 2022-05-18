@@ -1,3 +1,2 @@
 theme: jekyll-theme-slate
 title: Curriculum Vitae
-description: Last updated on `r format(Sys.time(), '%d %B, %Y')`
