@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
-title: Test
+title: Curriculum Vitae
 description: Janne Pott's CV
+date: "Last updated on `r format(Sys.time(), '%d %B, %Y')`"
