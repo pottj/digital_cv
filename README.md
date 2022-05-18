@@ -1,6 +1,9 @@
 # Janne Pott
 
-_PostDoc at Institute of Medical Informatics, Statistics and Epidemiology (IMISE), Leipzig University, Leipzig, Germany_ <br>
+_Postdoctoral Research Associate <br />
+Institute of Medical Informatics, Statistics and Epidemiology (IMISE) <br /> 
+Leipzig University, Faculty of Medicine <br /> 
+Haertelstr. 16-18, 04107 Leipzig, Germany_ <br>
 
 [Email](mailto:janne.pott@imise.uni-leipzig.de) / [LinkedIn](https://de.linkedin.com/in/janne-pott-56824a205) / [GitHub](https://github.com/pottj/) / [Twitter](https://twitter.com/pottj/) / [ORCID](https://orcid.org/0000-0002-5983-5331)
 
@@ -9,6 +12,21 @@ _PostDoc at Institute of Medical Informatics, Statistics and Epidemiology (IMISE
 In my research, I aim at understanding molecular factors of sexual dimorphisms of metabolic diseases. In particular, I am interested in genetic sex interactions and their consequences on other omics layers such as blood proteins and metabolites.
 
 ## Education
+
+**PhD in Genetical Statistics (2019)**, Faculty of Medicine, [University Leipzig](https://www.uni-leipzig.de/en), Leipzig, Germany <br /> 
+Graduated magna cum laude <br /> 
+**Thesis title**: Molecular genetic factors of susceptibility to carotid plaques <br /> 
+**Thesis supervisor**: Professor Markus Scholz <br /> 
+
+**MSc in Biomathematics (2015)**, Department of Mathematics and Computer Science, [University of Greifswald](https://www.uni-greifswald.de/en/), Greifswald, Germany <br /> 
+**Thesis title**: Phylogenetic decisive and non-decisive taxon sets – analysis and comparison <br /> 
+**Thesis supervisor**: Professor Mareike Fischer <br /> 
+
+**BSc in Integrated Life Sciences (2012)**, Faculty of Science, [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.eu/), Erlangne, Germany <br /> 
+**Thesis title**: BAX-BIM-Interaction Studied by Molecular Dynamics Simulation <br /> 
+**Thesis supervisor**: Professor Rainer Böckmann <br /> 
+
+**Abitur (2009)**, Marie-Therese-Gymnasium, Erlangen, Germany
 
 ## Publication 
 
