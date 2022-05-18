@@ -30,7 +30,7 @@ Graduated magna cum laude <br />
 
 **Abitur (2009)**, Marie-Therese-Gymnasium, Erlangen, Germany
 
-## Publication 
+## Publications 
 
 This list contains only first-author publications. They are sorted in ascending order by year of publication. For all publications, please see [ORCID](https://orcid.org/0000-0002-5983-5331)
 
