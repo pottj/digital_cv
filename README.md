@@ -15,7 +15,7 @@ In my research, I aim at understanding molecular factors of sexual dimorphisms o
 
 ## Education 
 
-**PhD in Genetical Statistics (2019)**, Faculty of Medicine, [University Leipzig](https://www.uni-leipzig.de/en), Leipzig, Germany <br /> 
+**PhD in Genetic Statistics (2019)**, Faculty of Medicine, [University Leipzig](https://www.uni-leipzig.de/en), Leipzig, Germany <br /> 
 Graduated magna cum laude <br /> 
 **Thesis title**: Molecular genetic factors of susceptibility to carotid plaques <br /> 
 **Thesis supervisor**: Professor Markus Scholz <br /> 
@@ -77,11 +77,11 @@ Tutor in module "Functional Genome Analysis - Microarrays and Sequencing" for Ma
 
 **Supervision of theses** <br /> 
 Supervision of four master students and one medical student:
-- Sandra Rauh, MSc, 2017 (_Genome-wide association analysis of steroid hormones_)
-- Michael Rode, MSc, 2018 (_Genome-wide association study on arterial stiffness based on pulse wave velocity data collected in the LIFE-Adult-Study_)
-- Anne-Sophie Kieslinger, MSc, 2020 (_Untersuchung des Einflusses der Modellannahmen auf Mendelsche Randomisationsanalysen_)
-- Jessica Geisler, MSc, 2022 (_Genomweite Assoziationsstudie zum Riechvermögen in der LIFE-Adult-Studie_)
-- Klara Börgerding, MD, 2022 (_Karotisplaquesvermessung in der bevölkerungsbasierten LIFE-Adult Studie –    Epidemiologie und Analyse von Risikofaktoren_) 
+- Rauh S, MSc, 2017 (_Genome-wide association analysis of steroid hormones_)
+- Rode M, MSc, 2018 (_Genome-wide association study on arterial stiffness based on pulse wave velocity data collected in the LIFE-Adult-Study_)
+- Kieslinger AS, MSc, 2020 (_Untersuchung des Einflusses der Modellannahmen auf Mendelsche Randomisationsanalysen_)
+- Geisler J, MSc, 2022 (_Genomweite Assoziationsstudie zum Riechvermögen in der LIFE-Adult-Studie_)
+- Börgerding K, MD, 2022 (_Karotisplaquesvermessung in der bevölkerungsbasierten LIFE-Adult Studie –    Epidemiologie und Analyse von Risikofaktoren_) 
 
 ## Research Experiences 
 
