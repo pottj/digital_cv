@@ -40,6 +40,7 @@ This list contains only first-author publications. They are sorted in ascending 
 4. **Pott J**, Beutner F, Horn K, Kirsten H, Olischer K, Wirkner K, et al. Genome-wide analysis of carotid plaque burden suggests a role of IL5 in men. _PLoS ONE_. 2020;15:e0233728. [DOI](https://doi.org/10.1371/journal.pone.0233728).
 5. **Pott J**, Gadin J, Theusch E, Kleber ME, Delgado GE, Kirsten H, et al. Meta-GWAS of PCSK9 levels detects two novel loci at APOB and TM6SF2. _Hum Mol Genet_ 2021. [DOI](https://doi.org/10.1093/hmg/ddab279).
 6. **Pott J**, Horn K, Zeidler R, Kirsten H, Ahnert P, Kratzsch J, et al. Sex-Specific Causal Relations between Steroid Hormones and Obesity-A Mendelian Randomization Study. _Metabolites_. 2021. [DOI](https://doi.org/10.3390/metabo11110738).
+7. **Pott J**, Garcia T, Hauck SM, Petrera A, Wirkner K, Loeffler M, et al. Genetically regulated gene expression and proteins revealed discordant effects. _PLoS ONE_. 2022;17:e0268815. [DOI](https://doi.org/10.1371/journal.pone.0268815).
 
 ## Grants 
 
