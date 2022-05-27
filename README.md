@@ -7,7 +7,7 @@ Haertelstr. 16-18, 04107 Leipzig, Germany_ <br>
 
 [Email](mailto:janne.pott@imise.uni-leipzig.de) / [LinkedIn](https://de.linkedin.com/in/janne-pott-56824a205) / [GitHub](https://github.com/pottj/) / [Twitter](https://twitter.com/pott_janne/) / [ORCID](https://orcid.org/0000-0002-5983-5331)
 
-Last updated: 18.05.2022
+Last updated: 26.05.2022
 
 ## Research Objective
 
