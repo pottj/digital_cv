@@ -15,7 +15,7 @@ In my research, I aim at understanding molecular factors of sexual dimorphisms o
 
 ## Education 
 
-**PhD in Genetic Statistics (2019)**, Faculty of Medicine, [University Leipzig](https://www.uni-leipzig.de/en), Leipzig, Germany <br /> 
+**PhD in Statistical Genetics (2019)**, Faculty of Medicine, [University Leipzig](https://www.uni-leipzig.de/en), Leipzig, Germany <br /> 
 Graduated magna cum laude <br /> 
 **Thesis title**: Molecular genetic factors of susceptibility to carotid plaques <br /> 
 **Thesis supervisor**: Professor Markus Scholz <br /> 
